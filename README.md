@@ -9,7 +9,7 @@ I have created a user-friendly Todo application using React.js, which includes s
 
 ## To start the app
  1. create a folder then in that folder clone the git url- git clone  https://github.com/pakkiankita/mytodoapp.git \
- 2. cd directory \
+ 2. cd directory  
  3. 'npm install' in that directory \
  4. 'npm start'
 Runs the app in the development mode.\
