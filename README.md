@@ -8,10 +8,10 @@ I have created a user-friendly Todo application using React.js, which includes s
 
 
 ## To start the app
-# 1.clone the git url :
-# 2.cd directory
-# 3. 'npm install' in that directory
-# 4. `npm start`
+ 1.clone the git url-  https://github.com/pakkiankita/mytodoapp.git \
+ 2. cd directory \
+ 3. 'npm install' in that directory \
+ 4. `npm start` \
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -20,5 +20,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ## the app is now live at:
 ## https://ankitapakkitodoapp.netlify.app/
 
+ ## screenshots 
+## ![Screenshot 2024-07-20 161335](https://github.com/user-attachments/assets/a47aa5ed-3325-47bb-ae18-d51597c4b05c)
+
+## ![Screenshot 2024-07-20 161637](https://github.com/user-attachments/assets/f0c5b558-2cf7-489a-951f-ddec2f8fc19a)
+
+## ![image](https://github.com/user-attachments/assets/8368addd-eb54-4c97-83c4-af001be1cc9a)
 
 
