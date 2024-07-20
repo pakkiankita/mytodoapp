@@ -4,7 +4,7 @@ I have created a user-friendly Todo application using React.js, which includes s
 
 ## Technologies used
 1.react js
-2.Bootstrap and css for styling
+#2.Bootstrap and css for styling
 
 
 # To start the app
