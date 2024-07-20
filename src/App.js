@@ -74,12 +74,7 @@ const App = () => {
   return (
     <div className="container mt-5">
       <h1 className="text-center">Todo App</h1>
-      <div className="d-flex justify-content-between align-items-center mb-3">
-        <TodoForm
-          addTodo={addTodo}
-          editTodo={editTodo}
-          selectedTodo={selectedTodo}
-        />
+      <div className="search-bar-container mb-3">
         <div className="input-group search-bar">
           <input
             type="text"
@@ -94,6 +89,13 @@ const App = () => {
             </span>
           </div>
         </div>
+      </div>
+      <div className="add-todo-container mb-3">
+        <TodoForm
+          addTodo={addTodo}
+          editTodo={editTodo}
+          selectedTodo={selectedTodo}
+        />
       </div>
       <div className="form-group">
         <select
