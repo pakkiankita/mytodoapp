@@ -8,13 +8,12 @@ I have created a user-friendly Todo application using React.js, which includes s
 
 
 ## To start the app
- 1.clone the git url-  https://github.com/pakkiankita/mytodoapp.git \
+ 1. create a folder then in that folder clone the git url- git clone  https://github.com/pakkiankita/mytodoapp.git \
  2. cd directory \
  3. 'npm install' in that directory \
- 4. `npm start` \
-
+ 4. 'npm start'
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in browser.
 
 
 ## the app is now live at:
