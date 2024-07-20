@@ -7,15 +7,18 @@ I have created a user-friendly Todo application using React.js, which includes s
 2.Bootstrap and css for styling
 
 
-# To start the app
-### `npm start`
+## To start the app
+# 1.clone the git url :
+# 2.cd directory
+# 3. 'npm install' in that directory
+# 4. `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
-# the app is live now at:
-## https://sparkling-nougat-3a6200.netlify.app/
+## the app is now live at:
+## https://ankitapakkitodoapp.netlify.app/
 
 
 
